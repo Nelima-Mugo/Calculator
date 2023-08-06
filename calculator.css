@@ -1,0 +1,91 @@
+body{
+  background-color: rgb(25,25,25);
+  font-size: 25px;
+  color: white;
+}
+button{
+  padding: 20px 26px;
+  border: none;
+  border-radius: 50px;
+  font-size: 22px;
+  color: white;
+  background-color: rgb(85,85,85);
+  margin-right: 8px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.operation{
+  background-color: orange;
+  padding: 20px 28px;
+}
+.decimal{
+  padding: 19.5px 27px;
+}
+/*
+.clear{
+  padding: 0;
+  height: 60px;
+  width: 60px;
+  margin-right: 8px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin: 0;
+  font-size: 16px;
+  padding: 20px 11px;
+}
+.backspace{
+  padding: 0;
+  height: 60px;
+  width: 60px;
+  margin-right: 8px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.backspace-icon{
+  height: 45px;
+  width: 45px;
+  padding: 0;
+  align-items: center;
+  padding-top: 5px;
+  padding-right: 5px;
+}
+.bottom-buttons{
+  align-items: center;
+  justify-content: center;
+  height: 60px;
+  padding: 0;
+}
+*/
+.last-buttons{
+  display: inline-block;
+  float: left;
+}
+.clear{
+  padding: 0;
+  height: 65px;
+  width: 65px;
+  margin-right: 8px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin: 0;
+  font-size: 16px;
+  padding: 20px 11px;
+  color: crimson;
+}
+.delete{
+  padding: 0;
+  height: 65px;
+  width: 65px;
+  margin-right: 8px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 160px;
+}
+.backspace-icon{
+  height: 45px;
+  width: 45px;
+  padding: 0;
+  align-items: center;
+  padding-top: 5px;
+  padding-right: 5px;
+}
